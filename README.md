@@ -6,6 +6,8 @@ The project revolves around two key datasets, "Orders.csv" and "Details.csv," in
 
 ## 📊 Key Visualizations
 
+![Screenshot](https://github.com/5umit-chandra/E-Commerce_Sales_Dashboard/assets/154830809/ddee4108-e62a-4395-a38a-6ca127384196)
+
 1. **Quarterly Insights Slicer:**  This slicer empowers users to dynamically filter data by quarters, offering a snapshot of sales trends over time.
 
 2. **Regional Focus Slicer:**  The state filter slicer enables users to explore and analyze sales data on a state level, providing a granular view of regional performance.
