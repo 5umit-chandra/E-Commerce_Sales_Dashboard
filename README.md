@@ -18,7 +18,7 @@ The project revolves around two key datasets, "Orders.csv" and "Details.csv," in
 
 5. **Key Performance Cards:**
     - **Amount, Quantity, and Profit:**  Quick reference cards summarizing essential metrics.
-    - **Average Order Value _(AOV)_:**  Computed as [Amount]/[Quantity], offering insights into transaction efficiency.
+    - **Average Order Value _(AOV)_:**  Computed as `[Amount]/[Quantity]`, offering insights into transaction efficiency.
     - **Sales Distribution by State _(Stacked Bar Chart)_:**  Explore the distribution of sales amounts across different states, providing insights into regional performance.
 
 6. **Payment Mode Preferences _(Donut Chart)_:**  Understand customer payment preferences by visualizing the quantity sold for each payment mode.
