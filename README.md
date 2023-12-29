@@ -24,17 +24,12 @@ The project revolves around two key datasets, "Orders.csv" and "Details.csv," in
 
 8. **Product Category Popularity _(Donut Chart)_:** Gain insights into product category performance by visualizing the quantity sold in each category.
 
-## Project Structure
-Adhering to the Pyramid Principle by McKinsey Research, Each visualization serves a unique purpose, enabling users to progressively explore and derive deeper insights from the data.
 
 ## Technical Details
 **Data Sources:** Simulated data sourced from the internet, comprising [Orders.csv](Orders.csv) and [Details.csv](Details.csv)
 **Data Connection:** Established through the common field `Order ID`
-
-## DAX Measures:
-**AOV (Average Order Value):** Computed as `[Amount]/[Quantity]`
-
-## How to Use
+**DAX Measures:** AOV (Average Order Value) is Computed as `[Amount]/[Quantity]`
+**How to Use**
 - Download and open **[E-Commerce_Sales_Dashboard.pbix](E-Commerce_Sales_Dashboard.pbix)** in Power BI Desktop.
 - Use slicers to filter data based on quarters and states.
 
