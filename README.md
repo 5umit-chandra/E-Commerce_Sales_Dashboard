@@ -2,7 +2,7 @@
 
 ## 📝 Project Overview
 This Power BI dashboard, named **[E-Commerce_Sales_Dashboard.pbix](E-Commerce_Sales_Dashboard.pbix)**  is using hypothetical data to simulate a real-world scenario. 
-The project revolves around two key datasets, "Orders.csv" and "Details.csv," interconnected through the common field Order ID.
+The project revolves around two key datasets, `Orders.csv` and `Details.csv`, interconnected through the common field `Order ID`.
 
 ## 📊 Key Visualizations
 
